@@ -3,10 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/alta_andreasFirdaus.iml" filepath="$PROJECT_DIR$/.idea/alta_andreasFirdaus.iml" />
-      <module fileurl="file://$PROJECT_DIR$/basic-programming/problem-1/test1/test1.iml" filepath="$PROJECT_DIR$/basic-programming/problem-1/test1/test1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/basic-programming/problem-2/test2/test2.iml" filepath="$PROJECT_DIR$/basic-programming/problem-2/test2/test2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Object-oriented-programming/problem-1/test3/test3.iml" filepath="$PROJECT_DIR$/Object-oriented-programming/problem-1/test3/test3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Object-oriented-programming/problem-2/test4/test4.iml" filepath="$PROJECT_DIR$/Object-oriented-programming/problem-2/test4/test4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-programming/problem-1/test1/tugas1.iml" filepath="$PROJECT_DIR$/basic-programming/problem-1/test1/tugas1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-programming/problem-2/test2/tugas2.iml" filepath="$PROJECT_DIR$/basic-programming/problem-2/test2/tugas2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-programming/problem-3/problem3/tugas3.iml" filepath="$PROJECT_DIR$/basic-programming/problem-3/problem3/tugas3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-programming/problem-4/tugas4/tugas4.iml" filepath="$PROJECT_DIR$/basic-programming/problem-4/tugas4/tugas4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-programming/problem-5/tugas5/tugas5.iml" filepath="$PROJECT_DIR$/basic-programming/problem-5/tugas5/tugas5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-programming/problem-6/tugas6/tugas6.iml" filepath="$PROJECT_DIR$/basic-programming/problem-6/tugas6/tugas6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-programming/problem-7/tugas7/tugas7.iml" filepath="$PROJECT_DIR$/basic-programming/problem-7/tugas7/tugas7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-oriented-programming/problem-1/test3/tugas_1.iml" filepath="$PROJECT_DIR$/Object-oriented-programming/problem-1/test3/tugas_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-oriented-programming/problem-3/tugas_3/tugas_3.iml" filepath="$PROJECT_DIR$/Object-oriented-programming/problem-3/tugas_3/tugas_3.iml" />
     </modules>
   </component>
 </project>

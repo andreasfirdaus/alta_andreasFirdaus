@@ -1,4 +1,3 @@
-package com.juaracoding.tugas.problem2;
 
 import java.util.Scanner;
 
